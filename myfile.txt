@@ -1,2 +1,2 @@
 changing content.
-Commit to be reverted
+text to be reverted
